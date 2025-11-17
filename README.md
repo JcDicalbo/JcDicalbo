@@ -1,4 +1,4 @@
-# ¡Hola! ¿Cómo estás? Soy Juan Cruz 👋
+# ¡Hola! Soy Juan Cruz 👋
 
 ## Sobre mí
 Tengo 21 años y estudio la Tecnicatura en Programación en la UTN.  
