@@ -1,8 +1,8 @@
 # ¡Hola! Soy Juan Cruz 👋
 
 ## Sobre mí
-Tengo 21 años y estudio la Tecnicatura en Programación en la UTN.  
-Me interesa todo lo relacionado al desarrollo de software y disfruto mucho aprender nuevas herramientas, lenguajes y formas de resolver problemas.  
+Tengo 22 años y actualmente estudio Redes y Ciberseguridad.  
+Me interesa todo lo relacionado al desarrollo de software y Ciberseguridad y disfruto mucho aprender nuevas herramientas, lenguajes y formas de resolver problemas.  
 Siempre estoy trabajando en mejorar mis proyectos y crear cosas útiles con código.
 
 ---
